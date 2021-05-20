@@ -18,6 +18,7 @@ Relevant components:
 - Creality CR-10S
 - SKR 1.4 Turbo Mainboard
 - TMC 2209 stepper drivers
+- Dual stepper drivers for the Z Axis, in order to enable Auto Z Align 
 - BL Touch probe
 - E3D Hemera Hotend [with printed mount and cooler](https://www.thingiverse.com/thing:4061250)
 
