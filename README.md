@@ -10,6 +10,17 @@
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+## Customization
+
+This repository contains adjusted configuration files for my setup.
+Relevant components:
+
+- Creality CR-10S
+- SKR 1.4 Turbo Mainboard
+- TMC 2209 stepper drivers
+- BL Touch probe
+- E3D Hemera Hotend [with printed mount and cooler](https://www.thingiverse.com/thing:4061250)
+
 ## Marlin 2.0
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
